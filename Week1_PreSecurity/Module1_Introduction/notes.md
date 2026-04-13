@@ -28,7 +28,7 @@ This module introduces the fundamentals of cybersecurity, focusing on pre-securi
 ---
 
 ## Screenshots
-![Introduction Module](screenshots/Intro_to_CyberSecurity.png)
+![Introduction Module](screenshots/Intro_To_CyberSecurity.png)
 
 ---
 
